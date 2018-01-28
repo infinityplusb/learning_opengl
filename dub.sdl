@@ -1,0 +1,9 @@
+name "learning_opengl"
+description "Learning OpenGL "
+authors "infinityplusb"
+copyright "Copyright © 2018, infinityplusb"
+license "proprietary"
+
+targetType "executable"
+dependency "gfm" version="~>7.0.0"
+dependency "derelict-glfw3" version="~>4.0.0-beta.1"

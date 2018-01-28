@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+learning_opengl.so
+learning_opengl.dylib
+learning_opengl.dll
+learning_opengl.a
+learning_opengl.lib
+learning_opengl-test-*
+*.exe
+*.o
+*.obj
+*.lst
+learning_opengl
